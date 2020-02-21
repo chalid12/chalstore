@@ -17,3 +17,7 @@ body{
     color: #F9B234;
     font: 600;
 }
+.carousel-item{
+    width: 20rem;
+    height: 30rem;
+}
