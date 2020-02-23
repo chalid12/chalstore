@@ -33,12 +33,12 @@ body{
 .carousel p{
     font-weight: 200;
 }
-.features h3{
+.features h3, .disainer h3{
     font-family: 'lora';
     color: #1b2690;
     font-weight: bold;
 }
-.features p{
+.features p, .disainer p{
     font-weight: 200;
     color: #B7B7B7;
 }
