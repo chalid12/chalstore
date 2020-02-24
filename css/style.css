@@ -3,6 +3,7 @@ body{
 }
 .navbar{
     background-color: #171717;
+    border-bottom: #333333 1px solid;
 }
 
 .nav-item{
@@ -64,4 +65,18 @@ body{
 .footer img{
     width: 5rem;
     height: 5rem;
+}
+.breadcrumb{
+    margin-top: 100px;
+}
+.produk-container{
+    background-color: white;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    width: 360px;
+    padding: 8px;
+    margin: auto;
+    transform:translateY(-45px) ;
+}
+.produk-container a: :hover{
+    text-decration :none  ;
 }
