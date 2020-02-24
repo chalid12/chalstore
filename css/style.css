@@ -38,11 +38,11 @@ body{
     color: #1b2690;
     font-weight: bold;
 }
-.features p, .disainer p{
+.features p, .disainer p, footer p{
     font-weight: 200;
     color: #B7B7B7;
 }
-.figure h5{
+.figure h5{ 
     color: #171717;
 }
 .figure-img{
@@ -60,4 +60,8 @@ body{
 }
 .figure-img:hover a{
     opacity: 1;
+}
+.footer img{
+    width: 5rem;
+    height: 5rem;
 }
