@@ -80,3 +80,59 @@ body{
 .produk-container a: :hover{
     text-decration :none  ;
 }
+.btn-produk{
+    margin: 50px 0;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #eaeaef ;
+}
+.btn-produk .btn{
+    display: block;
+    margin: 10px 0;
+}
+.designed-by h5{
+    font-size: 14px;
+    font-weight: 200;
+    color: #B7B7B7;
+    margin-bottom: 10px;
+}
+.designed-by h4{
+    font-size: 18px;
+    color: #B7B7B7;
+}
+.designed-by p{
+    font-size: 12px;
+    font-weight: 200;
+    color: #171717;
+}
+.designed-by p span{
+    color: #B7B7B7;
+}
+
+.produk-deks{
+    background-color: #f6f7fb;
+    height: 350px;
+}
+.produk-deks .tab-content{
+    background-color: #fff;
+    border: 1px solid #dee2e6;
+    border-top: 0;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.6);
+}
+.produk-deks .tab-content p{
+    font-size: 16   ;
+    font-weight: 200;
+    color: #868686;
+    line-height: 28px;
+}
+.produk-review{
+    height: 320px;
+    overflow: scroll;
+}
+.produk-review h5{
+    font-size: 18px;
+    margin-bottom: 0;
+}
+.produk-review p{
+    font-size: 14px !important;
+    margin-top: 10%;
+}
