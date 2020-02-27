@@ -34,12 +34,12 @@ body{
 .carousel p{
     font-weight: 200;
 }
-.features h3, .disainer h3{
+.features h3, .disainer h3, .similer-produk h3{
     font-family: 'lora';
     color: #1b2690;
     font-weight: bold;
 }
-.features p, .disainer p, footer p{
+.features p, .disainer p, footer p, .similer-produk p{
     font-weight: 200;
     color: #B7B7B7;
 }
@@ -136,3 +136,8 @@ body{
     font-size: 14px !important;
     margin-top: 10%;
 }
+.similer-produk{
+    margin-top: 180px;
+    margin-bottom: 100px;
+}
+
