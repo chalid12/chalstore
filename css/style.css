@@ -34,12 +34,12 @@ body{
 .carousel p{
     font-weight: 200;
 }
-.features h3, .disainer h3, .similer-produk h3{
+.features h3, .disainer h3, .similer-produk h3,.cart-header h3{
     font-family: 'lora';
     color: #1b2690;
     font-weight: bold;
 }
-.features p, .disainer p, footer p, .similer-produk p{
+.features p, .disainer p, footer p, .similer-produk p, .cart-header p{
     font-weight: 200;
     color: #B7B7B7;
 }
@@ -67,6 +67,9 @@ body{
     height: 5rem;
 }
 .breadcrumb{
+    margin-top: 100px;
+}
+.breadcrumb .cart-breadcrumb{
     margin-top: 100px;
 }
 .produk-container{
