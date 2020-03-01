@@ -34,12 +34,12 @@ body{
 .carousel p{
     font-weight: 200;
 }
-.features h3, .disainer h3, .similer-produk h3,.cart-header h3{
+.features h3, .disainer h3, .similer-produk h3,.cart-header h3, .checkout-sukses h3 ,.category h3{
     font-family: 'lora';
     color: #1b2690;
     font-weight: bold;
 }
-.features p, .disainer p, footer p, .similer-produk p, .cart-header p{
+.features p, .disainer p, footer p, .similer-produk p, .cart-header p,.checkout-sukses p,.category p{
     font-weight: 200;
     color: #B7B7B7;
 }
@@ -144,3 +144,8 @@ body{
     margin-bottom: 100px;
 }
 
+.checkout-detail{
+    background-color: #f6f7fb ;
+    border: 1px solid #eaeaea;
+    color: #171717;
+}
